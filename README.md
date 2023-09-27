@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Kaio Viana</h1>
 
-
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://sujeitoprogramador.com/&color=E4405F)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kah.viana_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -17,3 +16,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+![snake gif](https://github.com/eukahh/eukahh/blob/output/github-contribution-grid-snake.gif)
