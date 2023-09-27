@@ -11,6 +11,4 @@
 
 <h1></h1>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eukahh&show_icons=true&locale=en&hide=contribs&theme=dracula&hide_title&include_all_commits=true&custom_title=Kaio Viana's Stats" alt="eukahh" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eukahh&show_icons=true&locale=en&hide_title=true" alt="eukahh" /></p>
