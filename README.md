@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f9ad00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/vite-a553fe?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 
 #### Databases:
 
