@@ -40,6 +40,7 @@
 
 ## Contact me:
 
+[![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1156764846952546396)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kah.viana_)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.eukahh@gmail.com)
 
