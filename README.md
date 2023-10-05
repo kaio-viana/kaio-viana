@@ -41,8 +41,8 @@
 
 ## Contact me:
 
+[![Discord](https://img.shields.io/badge/-Discord-5562f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949451737444524072)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.eukahh@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kah.viana_)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B200ff&height=120&section=footer"/>
 
