@@ -44,6 +44,5 @@
 [![Discord](https://img.shields.io/badge/-Discord-5562f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949451737444524072)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.eukahh@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B200ff&height=120&section=footer"/>
-
 ![snake gif](https://github.com/eukahh/eukahh/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B200ff&height=120&section=footer"/>
