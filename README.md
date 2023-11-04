@@ -28,6 +28,7 @@
 #### Databases:
 
 ![MongoDB](https://img.shields.io/badge/mongodb-0c944c?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![SupaBase](https://img.shields.io/badge/supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
