@@ -12,7 +12,7 @@
  &nbsp;
  &nbsp;
 
-## My Skills
+## Software Engineer
 
 #### Main Stack:
 
@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-a553fe?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-d72f97?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)&nbsp;
 
 #### Databases:
 
@@ -35,6 +36,7 @@
 ![Windows](https://img.shields.io/badge/windows-0178d6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![PowerShell](https://img.shields.io/badge/powershell-1f3147?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/vscode-2689cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Intellij](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![PNPM](https://img.shields.io/badge/pnpm-4e4e4e?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=f9ad00)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-4e4e4e?style=for-the-badge&logo=npm&logoColor=white&labelColor=c30404)&nbsp;
