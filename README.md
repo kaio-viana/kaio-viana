@@ -38,8 +38,8 @@
 ![PowerShell](https://img.shields.io/badge/powershell-1f3147?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/vscode-2689cc?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![PNPM](https://img.shields.io/badge/pnpm-4e4e4e?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=f9ad00)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-4e4e4e?style=for-the-badge&logo=npm&logoColor=white&labelColor=c30404)&nbsp;
+![PNPM](https://img.shields.io/badge/pnpm-4e4e4e?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=f9ad00)&nbsp;
 
 ## Contact me:
 
