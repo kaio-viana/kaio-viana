@@ -5,8 +5,8 @@
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eukahh&theme=midnight-purple&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eukahh&show_icons=true&locale=en&theme=midnight-purple&layout=compact&border_color=FFFFFF" />
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-viana&theme=midnight-purple&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaio-viana&show_icons=true&locale=en&theme=midnight-purple&layout=compact&border_color=FFFFFF" />
  </div>
 
  &nbsp;
@@ -43,7 +43,7 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.eukahh@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.kaioviana@gmail.com)
 
-![snake gif](https://github.com/eukahh/eukahh/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B200ff&height=120&section=footer"/>
