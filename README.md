@@ -41,7 +41,7 @@
 ![NPM](https://img.shields.io/badge/npm-4e4e4e?style=for-the-badge&logo=npm&logoColor=white&labelColor=c30404)&nbsp;
 ![PNPM](https://img.shields.io/badge/pnpm-4e4e4e?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=f9ad00)&nbsp;
 
-## Contact
+## Contact:
 
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.kaioviana@gmail.com)
 
