@@ -30,7 +30,7 @@
 
 ![HTML](https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-284ce4?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-10042c?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-040404?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
