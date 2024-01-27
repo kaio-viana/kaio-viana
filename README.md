@@ -26,6 +26,12 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-0c944c?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SupaBase](https://img.shields.io/badge/supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
+#### Studying:
+
+![HTML](https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-284ce4?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-10042c?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+
 #### Workstation Tools:
 
 ![Windows](https://img.shields.io/badge/windows-0178d6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
