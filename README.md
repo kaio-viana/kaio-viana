@@ -37,6 +37,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-4e4e4e?style=for-the-badge&logo=npm&logoColor=white&labelColor=c30404)&nbsp;
 ![PNPM](https://img.shields.io/badge/pnpm-4e4e4e?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=f9ad00)&nbsp;
+![Bun](https://img.shields.io/badge/bun-4e4e4e?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
 
 ## Contact:
 
