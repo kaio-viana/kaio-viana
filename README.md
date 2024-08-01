@@ -16,28 +16,28 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-#### Main Stack:
+#### Main Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f9ad00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-#### Databases:
+#### Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-0c944c?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SupaBase](https://img.shields.io/badge/supabase-1c1c1c?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
-#### Studying:
+#### Studying
 
 ![HTML](https://img.shields.io/badge/html-e44d26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-284ce4?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-040404?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 
-#### Workstation Tools:
+#### Workstation Tools
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Bun](https://img.shields.io/badge/bun-14141c?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
 
-## Contact:
+## Contact
 
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaioviana@proton.me)
 
