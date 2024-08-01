@@ -35,7 +35,7 @@
 #### Workstation Tools:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Bun](https://img.shields.io/badge/bun-4e4e4e?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
+![Bun](https://img.shields.io/badge/bun-14141c?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
 
 ## Contact:
 
