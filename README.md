@@ -42,4 +42,4 @@
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaioviana@proton.me)
 
 ![snake gif](https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B200ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a4e3f&height=120&section=footer"/>
