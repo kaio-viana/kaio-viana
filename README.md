@@ -5,7 +5,6 @@
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-viana&theme=gotham" />
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-viana&theme=gotham&show_icons=true&layout=compact" />
  </div>
 
