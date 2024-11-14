@@ -12,7 +12,7 @@
  &nbsp;
  &nbsp;
 
-## Front-End Developer
+## 💻 Front-End Developer
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
@@ -37,9 +37,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Bun](https://img.shields.io/badge/bun-14141c?style=for-the-badge&logo=bun&logoColor=white)&nbsp;
 
-## Contact
+## ☕ Contact
 
-[![Email](https://img.shields.io/badge/-EMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kaioviana@proton.me)
+[![Email](https://img.shields.io/badge/-EMail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaioviana.dev)
 
-![snake gif](https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2cac8c&height=120&section=footer"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2cac8c&height=120&section=footer" />
