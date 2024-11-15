@@ -41,6 +41,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaio-viana)&nbsp;
 [![Email](https://img.shields.io/badge/EMail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaio@kaioviana.dev)&nbsp;
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/notkaioviana)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/222779342634090507)
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2cac8c&height=120&section=footer" />
