@@ -45,11 +45,4 @@
 
 &nbsp;
 
-<div align="center" style="margin-bottom:100px">
-  <img width=40% align="center" src="https://lanyard.cnrad.dev/api/222779342634090507?showDisplayName=true&hideSpotify=true&idleMessage=Probably%20doing%20something%20else..." />
-  <img width=45% align="center" src="https://KaioViana.pythonanywhere.com/?theme=dark&scan=true&spin=true" />
-</div>
-
-<img align="left" style="margin-bottom:100px" width=100% src="https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg" />
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2cac8c&height=120&section=footer" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg" />
