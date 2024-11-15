@@ -39,7 +39,17 @@
 
 ## ☕ Contact
 
-[![Email](https://img.shields.io/badge/-EMail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaioviana.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaio-viana)&nbsp;
+[![Email](https://img.shields.io/badge/EMail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kaioviana.dev)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/222779342634090507)
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg" />
+&nbsp;
+
+<div align="center" style="margin-bottom:100px">
+  <img width=40% align="center" src="https://lanyard.cnrad.dev/api/222779342634090507?showDisplayName=true&hideSpotify=true&idleMessage=Probably%20doing%20something%20else..." />
+  <img width=45% align="center" src="https://KaioViana.pythonanywhere.com/?theme=dark&scan=true&spin=true" />
+</div>
+
+<img align="left" style="margin-bottom:100px" width=100% src="https://github.com/kaio-viana/kaio-viana/blob/output/github-contribution-grid-snake.svg" />
+
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2cac8c&height=120&section=footer" />
